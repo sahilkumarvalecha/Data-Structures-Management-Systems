@@ -124,4 +124,4 @@ This repository contains various programming assignments and tasks designed to i
 ## How to Use:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/sahilkumarvalecha/Data-Structures-Assignments.git
+   git clone https://github.com/sahilkumarvalecha/Data-Structures-Management-Systems.git
