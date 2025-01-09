@@ -118,6 +118,15 @@ class Warehouse{
         }
         System.out.println("No Item With Such Name");
     }
+    public void DisplayStock(String title){
+        for(int i=0;i<count;i++){
+            if(equals(item[i].itemName,title)){
+                System.out.println("Current Stock: " + item[i].stockQuantity + " Of " + item[i].itemName);
+                return;
+            }
+        }
+        System.out.println("No Item With Such Name");
+    }
     public void displayItems(){
         for(int i =0; i<count;i++){
             System.out.println("Item Name: "+ item[i].itemName + " Stock Quantity: "+ item[i].stockQuantity);
