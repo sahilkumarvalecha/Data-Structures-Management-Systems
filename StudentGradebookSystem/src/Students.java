@@ -11,7 +11,8 @@ class GradeBook{
     Students[] student = new Students[2];
     int count =0;
     public boolean isEmpty(){
-        return count == 0;
+
+            return count == 0;
     }
 
     public void reSize(){

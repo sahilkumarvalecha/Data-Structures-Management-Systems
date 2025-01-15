@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ced7d7a-2dbe-4e9a-ba32-517af1acbafa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ProductCodeTree/src/BInaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SocialMediaHandleTree/src/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UsernameBasedBinaryTree/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UsernameBasedBinaryTree/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UsernameBasedBinaryTree/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UsernameBasedBinaryTree/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UsernameBasedBinaryTree/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UsernameBasedBinaryTree/src/BinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ContactManagementSystem/ContactManagementSystem.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ContactManagementSystem/src/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ContactManagementSystem/src/Contact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ContactManagementSystem/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ContactManagementSystem/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LibraryManagementSystem/LibraryManagementSystem.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ParkingLotManagement/ParkingLotManagement.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PatientManagementSystem/PatientManagementSystem.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StudentGradebookSystem/StudentGradebookSystem.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../StudentGradebookSystem/src/Students.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../StudentGradebookSystem/src/Students.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WarehouseInventouryManagement/WarehouseInventouryManagement.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2rSKwxtcY7UGRPHFeUmlEQ9w8xH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/SAHIL/Desktop/JavaCodes/Mini_Management_Systems/Data-Structures-Management-Systems/RestaurentOrderProcessing"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ced7d7a-2dbe-4e9a-ba32-517af1acbafa" name="Changes" comment="" />
+      <created>1736547286468</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736547286468</updated>
+    </task>
+    <servers />
+  </component>
+</project>
